@@ -1,6 +1,6 @@
 ### Data Used
 
-**Data** - HR Data with over 170000 from the year 2019
+**Data** - Sales Data with over 170000 from the year 2019
 
 **Data Analysis** - Pandas and Numpy
 
@@ -17,12 +17,7 @@
 ### Summary of Findings
 
 1. The month of december have the most sales.
-![Alt text](image.png)
 2. The city of San Francisco, California sold the most product.
-![Alt text](image-1.png)
 3. The most active customers are between 9am and 9pm.
-![Alt text](image-2.png)
 4. iPhone and Lightning Charging Cable
-![Alt text](image-3.png)
 5. AAA Batteries (4-pack)
-![Alt text](image-4.png)``
